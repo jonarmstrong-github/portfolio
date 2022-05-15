@@ -1,3 +1,5 @@
-# Modify this portfolio
+# Welcome to my professional portfolio
 
-Make it your own! 
+This portfolio page is still a work in progress.
+
+[https://jonarmstrong-github.github.io/portfolio/](https://jonarmstrong-github.github.io/portfolio/)
