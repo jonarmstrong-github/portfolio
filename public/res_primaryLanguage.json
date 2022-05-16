@@ -1,7 +1,19 @@
 {
   "basic_info": {
     "description_header": "Hi",
-    "description": "👋 I'm Jon Armstrong. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+    "description": "👋 I'm Jon Armstrong. I am a Veteran of the United States Marine Corps.
+
+    After leaving the Marine Corps I pursued automotive mechanics becoming an ASE Master Technician and a Toyota Expert Technician..
+    
+    As I have aged I have started to take my health and wellbeing much more seriously.
+    
+    I am hoping that a career in technology provides a better work/life balance, more financial security, more upward mobility, and significantly slows my absorption of environmental toxins.
+    
+    I have picked the software realm to empower my pursuit of these goals because technology has entered every facet of our lives. I feel that learning these skills will allow me to associate myself with nearly any organization on earth especially as the whole world has started to embrace remote work.
+    
+    As an automotive technician I am a experienced troubleshooter and have spent years strengthening my ability to diagnose problems down to their root cause.
+    
+    While I am still new to this path, I suspect that software development will eventually become a stepping stone for a path into Cyber Security.",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
