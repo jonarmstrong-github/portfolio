@@ -1,19 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hi",
-    "description": "👋 I'm Jon Armstrong. I am a Veteran of the United States Marine Corps.
-
-    After leaving the Marine Corps I pursued automotive mechanics becoming an ASE Master Technician and a Toyota Expert Technician..
-    
-    As I have aged I have started to take my health and wellbeing much more seriously.
-    
-    I am hoping that a career in technology provides a better work/life balance, more financial security, more upward mobility, and significantly slows my absorption of environmental toxins.
-    
-    I have picked the software realm to empower my pursuit of these goals because technology has entered every facet of our lives. I feel that learning these skills will allow me to associate myself with nearly any organization on earth especially as the whole world has started to embrace remote work.
-    
-    As an automotive technician I am a experienced troubleshooter and have spent years strengthening my ability to diagnose problems down to their root cause.
-    
-    While I am still new to this path, I suspect that software development will eventually become a stepping stone for a path into Cyber Security.",
+    "description": "👋 I'm Jon Armstrong.  I am a Veteran of the United States Marine Corps.  After leaving the Marine Corps I pursued automotive mechanics becoming an ASE Master Technician and a Toyota Expert Technician.  As I have aged I have started to take my health and wellbeing much more seriously.  I am hoping that a career in technology provides a better work/life balance, more financial security, more upward mobility, and significantly slows my absorption of environmental toxins.  I have picked the software realm to empower my pursuit of these goals because technology has entered every facet of our lives. I feel that learning these skills will allow me to associate myself with nearly any organization on earth especially as the whole world has started to embrace remote work.  As an automotive technician I am a experienced troubleshooter and have spent years strengthening my ability to diagnose problems down to their root cause.  While I am still new to this path, I suspect that software development will eventually become a stepping stone for a path into Cyber Security.",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
@@ -25,7 +13,7 @@
     {
       "title": "Animal Shelter",
       "startDate": "2020",
-      "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+      "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processes and allows to store all evidence on adopting animals from animal shelter.",
       "images": [
         "images/portfolio/animal-shelter/p1.jpg",
         "images/portfolio/animal-shelter/p2.jpg"
